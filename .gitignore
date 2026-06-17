@@ -1,0 +1,14 @@
+# Ignorar carpetas de datos
+data/
+IA.tsv
+sample_submission.tsv
+
+# Ignorar ambientes virtuales
+venv/
+.venv/
+env/
+
+# Ignorar archivos temporales de Jupyter y VS Code
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
