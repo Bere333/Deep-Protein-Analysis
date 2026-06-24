@@ -1,7 +1,8 @@
 # Ignorar carpetas de datos
 data/
-IA.tsv
-sample_submission.tsv
+*.tsv
+*.obo
+*.fasta
 
 # Ignorar ambientes virtuales
 venv/
